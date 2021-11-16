@@ -1,0 +1,7 @@
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\bin\Debug\gyorsabb.exe.config
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\bin\Debug\gyorsabb.exe
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\bin\Debug\gyorsabb.pdb
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\obj\Debug\gyorsabb.csproj.AssemblyReference.cache
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\obj\Debug\gyorsabb.csproj.CoreCompileInputs.cache
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\obj\Debug\gyorsabb.exe
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\TICTACTOEfast\gyorsabb\gyorsabb\obj\Debug\gyorsabb.pdb
